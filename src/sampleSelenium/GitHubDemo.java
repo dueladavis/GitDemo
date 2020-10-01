@@ -12,6 +12,7 @@ public class GitHubDemo {
 		driver.get("https://www.google.com/");
 		System.out.println("Successfully initiated the Project");
 		System.out.println("Successfully commited and push the Project");
+		System.out.println("Successfully pulled the project from develop branch in Github");
 	
 	}
 

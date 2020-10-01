@@ -12,6 +12,7 @@ public class sampleDemo {
 		driver.get("https://www.google.com/");
 		System.out.println("Successfully updated to GitHub");
 		System.out.println("Successfully created the develop branch");
+		System.out.println("Successfully pulled the project from develop branch in Github");
 	}
 
 }
